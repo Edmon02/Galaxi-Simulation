@@ -37,7 +37,7 @@ Galaxi-Simulation/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/Galaxi-Simulation.git
+    git clone https://github.com/Edmon02/Galaxi-Simulation.git
     cd Galaxi-Simulation
     ```
 
